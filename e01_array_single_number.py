@@ -20,5 +20,5 @@ def numbers(list_of_numbers):
     return new_list
 
 
-print(find_number([1, 2, 3, 4, 3, 2, 1]))
+# print(find_number([1, 2, 3, 4, 3, 2, 1]))
 print(numbers([1, 1, 4, 5, 5, 6, 7, 7]))
